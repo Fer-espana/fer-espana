@@ -1,15 +1,18 @@
 <div align="center">
-  <h1>👋 Hola, soy Fernando España</h1>
-  <h3>Full-Stack Developer · Mobile Apps (Flutter) · Systems & BI Engineer</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=3000&color=0099A8&center=true&vCenter=true&width=700&height=65&lines=Fernando+Espa%C3%B1a" alt="Fernando España" />
+  </a>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00E5FF&center=true&vCenter=true&width=780&lines=Desarrollo+Empresarial+Full-Stack+(Angular+22+SSR%2C+React+%26+Node.js);Apps+M%C3%B3viles+en+Producci%C3%B3n+con+Flutter%2C+Dart+%26+Google+Play;Infraestructura+AWS+EC2%2C+Odoo+ERP+%26+Bases+de+Datos+H%C3%ADbridas;Business+Intelligence+con+Power+BI%2C+DAX+%26+MS+Report+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=780&lines=Full-Stack+Developer+(Angular+22+SSR%2C+React+%26+Node.js);Mobile+App+Developer+(Flutter%2C+Dart+%26+Google+Play);Cloud+%26+ERP+Integration+(AWS+EC2%2C+Odoo%2C+PostgreSQL%2C+SQL+Server);Business+Intelligence+Engineer+(Power+BI%2C+DAX+%26+SSRS)" alt="Especialidades" />
   </a>
 
   <br/>
 
+  <img src="https://img.shields.io/badge/Guatemala-071925?style=for-the-badge&logo=googlemaps&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Systems_%26_Full--Stack_Dev-071925?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF" />
   <a href="https://github.com/Fer-espana/enterprise-systems-portfolio">
-    <img src="https://img.shields.io/badge/Portafolio_Empresarial-Casos_de_Estudio-0099A8?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Casos_de_Estudio-Producci%C3%B3n-0099A8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:espanando87@gmail.com">
     <img src="https://img.shields.io/badge/Contacto-Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
