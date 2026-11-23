@@ -11,10 +11,13 @@
     apps móviles publicadas en Google Play y APIs en AWS integradas con Odoo ERP.
   </p>
 
-  <img src="https://img.shields.io/badge/Guatemala-0E2A3B?style=for-the-badge&logo=googlemaps&logoColor=00E5FF" alt="Guatemala" />
   <a href="https://github.com/Fer-espana/enterprise-systems-portfolio">
-    <img src="https://img.shields.io/badge/Portafolio-0099A8?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio" />
+    <img height="46" src="https://img.shields.io/badge/PORTAFOLIO_EMPRESARIAL-Ver_casos_de_estudio_%E2%86%92-0099A8?style=for-the-badge&logo=github&logoColor=white&labelColor=0E2A3B" alt="Portafolio empresarial: ver casos de estudio" />
   </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Guatemala-0E2A3B?style=for-the-badge&logo=googlemaps&logoColor=00E5FF" alt="Guatemala" />
   <a href="mailto:espanando87@gmail.com">
     <img src="https://img.shields.io/badge/Email-0099A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -71,7 +74,20 @@
 
 ## Proyectos en producción
 
-> Arquitectura completa, diagramas Mermaid y decisiones técnicas en [`enterprise-systems-portfolio`](https://github.com/Fer-espana/enterprise-systems-portfolio).
+<div align="center">
+
+  <b>Lo que he construido en entornos empresariales reales, y cómo lo diseñé.</b>
+  <br/>
+  <sub>Arquitectura completa, diagramas Mermaid y decisiones técnicas de cada proyecto.</sub>
+  <br/><br/>
+
+  <a href="https://github.com/Fer-espana/enterprise-systems-portfolio">
+    <img height="42" src="https://img.shields.io/badge/enterprise--systems--portfolio-Abrir_documentaci%C3%B3n_completa_%E2%86%92-0099A8?style=for-the-badge&logo=github&logoColor=white&labelColor=0E2A3B" alt="Abrir enterprise-systems-portfolio" />
+  </a>
+
+</div>
+
+<br/>
 
 | Proyecto | Resumen | Detalle |
 | :--- | :--- | :---: |
