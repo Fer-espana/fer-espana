@@ -108,7 +108,7 @@ Desarrollador de Sistemas y Programador Full-Stack en **Ciudad de Guatemala 🇬
   <a href="https://github.com/Fer-espana">
     <img src="https://img.shields.io/badge/GitHub-Fer--espana-0099A8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:tu_correo@ejemplo.com">
+  <a href="mailto:espanando87@gmail.com">
     <img src="https://img.shields.io/badge/Contacto-Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
